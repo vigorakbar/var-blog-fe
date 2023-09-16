@@ -1,6 +1,8 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>What's this website about?</h1>
+    <p>This will be my personal blog to share my thought and experience</p>
+    <p>hehehehehhehehe</p>
   </div>
 </template>
 
@@ -8,8 +10,6 @@
 @media (min-width: 1024px) {
   .about {
     min-height: 100vh;
-    display: flex;
-    align-items: center;
   }
 }
 </style>
